@@ -6,6 +6,7 @@ __pycache__/
 output.xml
 log.html
 report.html
+.png
 
 # Environment files
 .env
